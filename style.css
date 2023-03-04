@@ -1,0 +1,38 @@
+.perso {
+    /* background-color:Tomato; */
+    text-align: justify;
+  }
+
+.tex sub, .latex sub {
+vertical-align: -0.25ex;
+margin-left: -0.1667em;
+margin-right: -0.125em;
+}
+
+.tex, .latex, .tex sub, .latex sub {
+font-size: 1em;
+}
+
+.latex sup {
+font-size: 0.85em;
+vertical-align: -0.05em;
+margin-left: -0.36em;
+margin-right: -0.15em;
+}
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+
+a {
+  color: #828584;
+}
+
+a:visited {
+  color: rgb(235, 138, 28);
+}
+
+a:hover {
+  color:rgb(69, 149, 241);
+}
